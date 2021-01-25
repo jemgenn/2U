@@ -1,0 +1,20 @@
+.Fact
+{
+    background-color: transparent;
+    border: none;
+}
+.facttitle
+{
+    color: rgba(246, 239, 231, 1);
+    font-size: 10px;
+    text-shadow: 2px 2px 4px #000000;
+}
+.facttext
+{
+    font-size: 10px;
+}
+.warning
+{
+    width: 10px;
+
+}

@@ -1,0 +1,11 @@
+.location
+{
+    font-size: 8px;
+    color: rgba(80, 96, 86, 1);
+    background-color: transparent;
+    margin: 5px;
+}
+.placeholder
+{
+    width: 10px;
+}

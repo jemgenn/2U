@@ -1,0 +1,16 @@
+.App
+{
+    background-image: url("2U_background.svg");
+    background-size: cover;
+    min-height: 40em;
+    margin: 0;
+}
+.ProfilePicture
+{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: auto;
+    align-items: center;
+    margin-top: 10%;
+}

@@ -1,0 +1,24 @@
+.Card
+{
+    background-color: rgba(80, 96, 86, 1);
+    margin: 5%;
+    border-radius: 7%;
+    width: 90%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.heart
+{
+    width: 10px;
+    margin-top: 2%;
+}
+.proftitle
+{
+    font-size: 10px;
+    color: rgba(246, 239, 231,1);
+}
+.proftext
+{
+    font-size: 10px;
+    color: rgba(27, 25, 23, 1);
+    margin-bottom: 5%;
+}

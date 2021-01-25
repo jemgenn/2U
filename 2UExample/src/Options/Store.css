@@ -1,0 +1,18 @@
+.store
+{
+    background-color: rgba(80, 96, 86, 1);
+    min-height: 20px;
+    margin: 10px;
+    display: flex;
+    border-radius: 7%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.storetitle
+{
+    font-size: 10px;
+    color: rgba(246, 239, 231, 1);
+}
+.small
+{
+    width: 20px;
+}

@@ -1,0 +1,9 @@
+.name
+{
+    font-size: 10px;
+    color: rgb(64, 64, 64);
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+}
